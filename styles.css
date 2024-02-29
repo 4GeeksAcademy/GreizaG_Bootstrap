@@ -1,0 +1,26 @@
+.navtab {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.tab-content {
+    display: flex;
+    justify-content: center;
+
+}
+
+.container {
+    display: flex;
+}
+
+.navbar {
+    width: 924px;
+    height: 55px;
+}
+
+.card {
+    width:302px;
+    height: 410px;
+}
